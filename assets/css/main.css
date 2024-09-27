@@ -1096,6 +1096,7 @@ section,
   /* Medium devices (tablets, 768px and up) */
   .custom-card {
     max-width: 24rem; /* Set to a fixed size for larger screens */
+    background-color: #ffccd5;
   }
 }
 
@@ -1103,6 +1104,7 @@ section,
   /* Large devices (desktops, 992px and up) */
   .custom-card {
     max-width: 50rem; /* Slightly wider for larger screens */
+    background-color: #ffccd5;
   }
 }
 
