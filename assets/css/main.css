@@ -1112,6 +1112,7 @@ section,
 .card-text {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  background-color: #ffccd5;
 }
 .floating-icon {
   animation: float 3s ease-in-out infinite;
